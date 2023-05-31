@@ -1,0 +1,4 @@
+#Wed May 31 13:56:22 BRT 2023
+base.0=/Users/victor/Documents/Desenvolvimento/clone_ui_nubank/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
